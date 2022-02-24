@@ -1,0 +1,13 @@
+D:\Лабораторные работы по численным методам\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+D:\Лабораторные работы по численным методам\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.Cache
+D:\Лабораторные работы по численным методам\Lab3\Lab3\obj\x86\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Лабораторные работы по численным методам\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.AssemblyReference.cache
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.Form1.resources
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.Properties.Resources.resources
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.GenerateResource.cache
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\численные методы\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\численные методы\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.exe
+D:\численные методы\Lab3\Lab3\obj\x86\Debug\Lab3.pdb
